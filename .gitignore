@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.streamlit/secrets.toml
+stock_win_profile_*
+app_win_profile_*
+.cache/
